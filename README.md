@@ -2,7 +2,7 @@
 
 A backend API built with **Node.js** and **Express.js** that ranks resumes based on their relevance to a provided job description.
 
----
+
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ A backend API built with **Node.js** and **Express.js** that ranks resumes based
 - RESTful API with `POST` endpoint
 - API Documentation via Swagger
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -25,11 +25,11 @@ A backend API built with **Node.js** and **Express.js** that ranks resumes based
 - string-similarity (for scoring)
 - Swagger (for API docs)
 
----
+
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/resume-ranking-api.git
+git clone https://github.com/yogeshavhad1912/resume-ranking-api
 cd resume-ranking-api
 npm install
